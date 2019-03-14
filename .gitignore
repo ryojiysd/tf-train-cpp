@@ -1,0 +1,6 @@
+*.obj
+*.o
+graph.pb
+tensorflow.dll
+checkpoints/*
+MNIST_data/*
